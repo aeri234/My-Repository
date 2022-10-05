@@ -2,4 +2,4 @@
 =============================
 > 지용성 비타민은 기름과 함께 섭취할 경우 더 빠르게 체내에 흡수된다고 알려져있다. 효과적인 체내 흡수가 가능한 식용 기름들을 비교한다.
 
-![KakaoTalk_Photo_2021-06-14-23-56-48](https://user-images.githubusercontent.com/115014576/194066059-537dc8bb-5b02-4546-870f-a50ed7ac58cd.jpeg){: width="100" height="100"}
+![KakaoTalk_Photo_2021-06-14-23-56-48](https://user-images.githubusercontent.com/115014576/194066059-537dc8bb-5b02-4546-870f-a50ed7ac58cd.jpeg){: width="10" height="10"}
